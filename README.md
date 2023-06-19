@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## NOTE
 Due to busy project timeline. The Frontend was created with figma tailwind generator(its not that great: https://www.figma.com/community/plugin/1049994768493726219 ) for quick mock up purpose, will debug or rewrite later. Only the Hero component was written by hand instead of generator plug in. 
 
-For backend store jwt token in mongoDB to identify user.
+For backend: store jwt token in mongoDB to identify user.
 
 ## Getting Started
 
